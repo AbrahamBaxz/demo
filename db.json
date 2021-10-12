@@ -10,8 +10,9 @@
     "last_name": "baxz2",
     "first_name": "abra2"
   }   
- ],
- "movies": [
+ ]
+
+  "movies": [
    {
     "id": "01",
     "title": "m1"
@@ -21,4 +22,5 @@
     "title": "m2"
   }, 
  ]
+  
 }
