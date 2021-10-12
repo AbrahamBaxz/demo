@@ -1,7 +1,17 @@
 {
-  "user": {
+  "users": [
+  
+    {
     "id": "01",
     "last_name": "baxz",
     "first_name": "abra"
+  },
+    
+        {
+    "id": "02",
+    "last_name": "baxz2",
+    "first_name": "abra2"
   }
+    
+  ]
 }
