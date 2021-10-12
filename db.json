@@ -10,8 +10,20 @@
       "last_name": "baxz2",
       "first_name": "abra2"
     }   
- ]
+ ],
 
+    "posts": [
+    {
+      "id": "01",
+      "title": "none",
+      "desc": "qwerty"
+    },
+    {
+      "id": "02",
+      "title": "baxz2",
+      "desc": "asdfg"
+    }   
+ ]
 
   
 }
